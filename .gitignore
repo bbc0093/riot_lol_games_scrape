@@ -5,6 +5,7 @@ __pycache__/
 
 # Local variables that we do not want commited
 local.py
+sets.json
 
 # Project Files
 .project
