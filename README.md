@@ -7,7 +7,7 @@ and you having a riot developer API key https://developer.riotgames.com/
 
 ## Output
 
-A dump of game file can be fouud in this repo: TODO
+A dump of game file can be fouud in this repo: https://github.com/bbc0093/lol_game_logs
 
 ## Installation and Setup Instructions
 
